@@ -85,13 +85,14 @@ Our current operations range from military-grade cryptographic tools to comprehe
 ### <img src="https://img.shields.io/badge/-04._GLOBAL_TELEMETRY-0a0a0a?style=for-the-badge&logoColor=white" alt="Stats" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vampiresquad&show_icons=true&theme=blood&hide_border=true&bg_color=0a0a0a&icon_color=8B0000&title_color=8B0000&text_color=a0a0a0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vampiresquad&show_icons=true&hide_border=true&bg_color=0a0a0a&icon_color=8B0000&title_color=8B0000&text_color=a0a0a0&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vampiresquad&theme=blood&hide_border=true&background=0a0a0a&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&currStreakLabel=a0a0a0&sideNums=ffffff&sideLabels=a0a0a0&dates=a0a0a0" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vampiresquad&layout=compact&theme=blood&hide_border=true&bg_color=0a0a0a&title_color=8B0000&text_color=a0a0a0" alt="Top Languages" width="48%" style="margin-top: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vampiresquad&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=8B0000&text_color=a0a0a0&cache_seconds=86400" alt="Top Languages" width="48%" style="margin-top: 10px;" />
 </div>
+
 
 <br>
 
