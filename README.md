@@ -84,17 +84,19 @@ Our current operations range from military-grade cryptographic tools to comprehe
 
 ### <img src="https://img.shields.io/badge/-04._GLOBAL_TELEMETRY-0a0a0a?style=for-the-badge&logoColor=8B0000" alt="Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vampiresquad&show_icons=true&theme=blood&hide_border=true&bg_color=0a0a0a&icon_color=8B0000&title_color=8B0000&text_color=a0a0a0&v=1" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vampiresquad&theme=blood&hide_border=true&background=0a0a0a&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&currStreakLabel=a0a0a0&sideNums=ffffff&sideLabels=a0a0a0&dates=a0a0a0" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vampiresquad&show_icons=true&theme=blood&hide_border=true&bg_color=0a0a0a&icon_color=8B0000&title_color=8B0000&text_color=a0a0a0&count_private=true)](https://github.com/vampiresquad)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vampiresquad&layout=compact&theme=blood&hide_border=true&bg_color=0a0a0a&title_color=8B0000&text_color=a0a0a0&v=1" alt="Top Languages" />
-</p>
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vampiresquad&theme=blood&hide_border=true&background=0a0a0a&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&currStreakLabel=a0a0a0&sideNums=ffffff&sideLabels=a0a0a0&dates=a0a0a0)](https://github.com/vampiresquad)
+
+<br><br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vampiresquad&layout=compact&theme=blood&hide_border=true&bg_color=0a0a0a&title_color=8B0000&text_color=a0a0a0&count_private=true)](https://github.com/vampiresquad)
+
+</div>
 
 <br>
 
