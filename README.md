@@ -43,8 +43,12 @@ A master is defined by the precision of their tools. Below is our active loadout
 #### `> COMMAND & SCRIPTING_`
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
+<br>
+
 #### `> WEB ARCHITECTURE & DESIGN_`
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br>
 
 #### `> DATABASE, CLOUD & DEPLOYMENT_`
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -57,44 +61,43 @@ Our current operations range from military-grade cryptographic tools to comprehe
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/STATUS:-ACTIVE-brightgreen?style=for-the-badge" /> <br><br>
-      <b>[OP: VS-Encrypt-Elite]</b> <br>
-      Professional-grade Any-Source code obfuscation tool. Engineered with AES-256 military-grade encryption and an auto-healing dependency fix.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/STATUS:-ACTIVE-brightgreen?style=for-the-badge" /> <br><br>
-      <b>[OP: Hidayah]</b> <br>
-      A comprehensive Islamic knowledge web application. Built with a highly optimized, pixel-perfect UI/UX to serve as an ultimate resource for the Muslim community flawlessly.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/STATUS:-MONITORING-039BE5?style=for-the-badge" /> <br><br>
-      <b>[OP: ShadowZip-X & ArchitectX]</b> <br>
-      Advanced ZIP password recovery & security analysis engines, alongside multi-functional Python-based cross-platform tool generators.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/STATUS:-DEPLOYING-FCC624?style=for-the-badge" /> <br><br>
-      <b>[OP: Meteorological Dashboard]</b> <br>
-      A professional, ready-to-use weather web application featuring an interactive map view, dynamic location search, real-time data fetching, and seamless Firebase database integration.
-    </td>
-  </tr>
-</table>
+> <img src="https://img.shields.io/badge/STATUS:-ACTIVE-brightgreen?style=for-the-badge" /> <br>
+> **[OP: VS-Encrypt-Elite]** <br>
+> Professional-grade Any-Source code obfuscation tool. Engineered with AES-256 military-grade encryption and an auto-healing dependency fix.
+<br>
+
+> <img src="https://img.shields.io/badge/STATUS:-ACTIVE-brightgreen?style=for-the-badge" /> <br>
+> **[OP: Hidayah]** <br>
+> A comprehensive Islamic knowledge web application. Built with a highly optimized, pixel-perfect UI/UX to serve as an ultimate resource for the Muslim community flawlessly.
+<br>
+
+> <img src="https://img.shields.io/badge/STATUS:-MONITORING-039BE5?style=for-the-badge" /> <br>
+> **[OP: ShadowZip-X & ArchitectX]** <br>
+> Advanced ZIP password recovery & security analysis engines, alongside multi-functional Python-based cross-platform tool generators.
+<br>
+
+> <img src="https://img.shields.io/badge/STATUS:-DEPLOYING-FCC624?style=for-the-badge" /> <br>
+> **[OP: Meteorological Dashboard]** <br>
+> A professional, ready-to-use weather web application featuring an interactive map view, dynamic location search, real-time data fetching, and seamless Firebase database integration.
 
 <br><hr><br>
 
 ### <img src="https://img.shields.io/badge/-04._GLOBAL_TELEMETRY-0a0a0a?style=for-the-badge&logoColor=8B0000" alt="Stats" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vampiresquad&show_icons=true&theme=blood&hide_border=true&bg_color=0a0a0a&icon_color=8B0000&title_color=8B0000&text_color=a0a0a0" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vampiresquad&theme=blood&hide_border=true&background=0a0a0a&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&currStreakLabel=a0a0a0&sideNums=ffffff&sideLabels=a0a0a0&dates=a0a0a0" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vampiresquad&show_icons=true&theme=blood&hide_border=true&bg_color=0a0a0a&icon_color=8B0000&title_color=8B0000&text_color=a0a0a0" alt="GitHub Stats" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vampiresquad&layout=compact&theme=blood&hide_border=true&bg_color=0a0a0a&title_color=8B0000&text_color=a0a0a0" alt="Top Languages" width="50%" style="margin-top: 15px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vampiresquad&theme=blood&hide_border=true&background=0a0a0a&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&currStreakLabel=a0a0a0&sideNums=ffffff&sideLabels=a0a0a0&dates=a0a0a0" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vampiresquad&layout=compact&theme=blood&hide_border=true&bg_color=0a0a0a&title_color=8B0000&text_color=a0a0a0" alt="Top Languages" />
 </div>
 
 <br>
